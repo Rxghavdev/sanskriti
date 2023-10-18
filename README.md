@@ -18,7 +18,8 @@ Before you begin, ensure you have met the following requirements:
 - Node.js: You need Node.js installed for the backend API. Visit [Node.js](https://nodejs.org/) to download and install Node.js.
 - MongoDB: The backend uses MongoDB for data storage. Install MongoDB by following the instructions at [MongoDB Installation](https://docs.mongodb.com/manual/installation/).
 - Flutter dependencies: Open the project in Android Studio and run `flutter pub get` to install the required dependencies.
-
+- API ARE DEPLOYED ON RENDER WHICH CAN BE ACCESSED BY THE URL DEFINED AND IT WILL GIVE CORS ERROR(IF ACCESSED VIA WINDOWS,CHROME INN FLUTTER)
+- API URL- https://app-d2hf.onrender.com/users/getFacts
 ## Installation
 1. Clone the repository:
 
@@ -28,14 +29,14 @@ Before you begin, ensure you have met the following requirements:
 
 
    Flutter app setup:
+   Open the project in Android Studio.
 
-Open the project in Android Studio.
+  
+   Build and run the app using the following command:
 
-Connect an Android device or start an Android emulator.
+   
+   flutter pub get
+   flutter run
 
-Build and run the app using the following command:
 
-bash
-flutter pub get
-flutter run
 
