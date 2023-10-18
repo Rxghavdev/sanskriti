@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062992293235",
+    "project_id": "sanskriti-d7435",
+    "storage_bucket": "sanskriti-d7435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062992293235:android:b9d3fe409aac1f691f2906",
+        "android_client_info": {
+          "package_name": "com.codeaamy.sanskriti2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062992293235-jmoc6beod8iaiaffqgfs4lmu251f8dqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcl6Et9Gr0sWCyPumF3e4HWAXsQNYy3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062992293235-jmoc6beod8iaiaffqgfs4lmu251f8dqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
